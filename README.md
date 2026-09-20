@@ -92,7 +92,7 @@ git clone https://github.com/HarshithaSrikakolapu/Voice-Assistant.git
 ### 2. Navigate to the project
 
 ```bash
-cd mahi-voice-assistant
+cd voice-assistant
 ```
 
 ### 3. Install dependencies
@@ -104,7 +104,7 @@ pip install SpeechRecognition pyttsx3 pywhatkit wikipedia PyAudio
 ### 4. Run the assistant
 
 ```bash
-python mahi.py
+python voice_assistant.py
 ```
 
 Mahi will start with:
